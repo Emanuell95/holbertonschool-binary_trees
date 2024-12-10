@@ -1,1 +1,1 @@
-# holbertonschool-binary_trees
+This project implements a Binary Tree data structure, providing foundational operations such as insertion, deletion, traversal, and searching. It is designed to demonstrate how binary trees work and can serve as a base for algorithms like binary search, tree traversal, and tree balancing.
